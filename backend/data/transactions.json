@@ -1,0 +1,59 @@
+[
+  {
+    "date": "2025-11-25",
+    "description": "Venta de carro",
+    "amount": 30000.0,
+    "category": "Ventas",
+    "id": 1
+  },
+  {
+    "date": "2025-11-25",
+    "description": "Compra de mercadería",
+    "amount": -5000.0,
+    "category": "Compra",
+    "id": 2
+  }
+  ,
+  {
+    "date": "2025-11-24",
+    "description": "Venta de repuestos - Cliente A",
+    "amount": 1500.00,
+    "category": "Ventas",
+    "id": 3
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Venta online - Tienda Web",
+    "amount": 2500.50,
+    "category": "Ventas Online",
+    "id": 4
+  },
+  {
+    "date": "2025-11-23",
+    "description": "Servicio de instalación - Proyecto B",
+    "amount": 320.75,
+    "category": "Servicios",
+    "id": 5
+  },
+  {
+    "date": "2025-11-22",
+    "description": "Venta mayorista - Distribuidor X",
+    "amount": 4500.00,
+    "category": "Ventas Mayoristas",
+    "id": 6
+  },
+  {
+    "date": "2025-11-21",
+    "description": "Venta promociÃ³n Black Friday",
+    "amount": 120.00,
+    "category": "Ventas",
+    "id": 7
+  },
+  {
+    "date": "2025-11-20",
+    "description": "Venta de paquete corporativo - Cliente Y",
+    "amount": 9999.99,
+    "category": "Ventas",
+    "id": 8
+  }
+]
